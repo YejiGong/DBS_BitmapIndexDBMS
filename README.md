@@ -2,6 +2,7 @@
 2023.05 BitmapIndex 설계 및 구현 (소규모 DBMS 구현)
 
 <설계>
+
 ![image](https://github.com/YejiGong/SE_BridgeGame/assets/87148580/23412eda-23e2-4d83-9505-d8ee9401781d.png)
 
 <DB 테이블>
